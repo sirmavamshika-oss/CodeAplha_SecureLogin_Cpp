@@ -1,0 +1,23 @@
+# CMake build output and generated files
+/build/
+/build-*/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/CTestTestfile.cmake
+/Makefile
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.obj
+*.lib
+*.exe
+*.pdb
+
+# Local editor configuration
+.vscode/
+.vs/
+
+# Runtime account data
+/data/
